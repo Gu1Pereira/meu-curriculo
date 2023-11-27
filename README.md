@@ -10,3 +10,9 @@
 ## Cursos livres
 - Excel, Senac Americana [24h]
 - Excel Avançado, Senac Americana [39h]
+
+## Cidade
+- Nova Odessa - SP
+
+## Trabalho
+- Revisor de tecido - Jolitex Denim
